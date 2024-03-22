@@ -1,0 +1,64 @@
+body
+{
+    background-image: url(../img/pexels-supreet-7942893.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav
+{
+    display: flex;
+    margin-top: 3%;
+}
+ul
+{
+    list-style-type: none;
+    justify-content:space-around;
+    display: flex;
+    width: 50%;
+}
+.nav-items, .nav-items:hover
+{
+    color: white;
+}
+.nav-items:hover
+{
+    text-decoration: none;
+}
+.container
+{
+    width: 50%;
+    margin-top: 5%;
+    margin-left: 25%;
+}
+form
+{
+    width: 100%;
+}
+label
+{
+    border: 1px solid white;
+    border-right-style: none;
+    display: inline-block;
+    padding: 0.5%;
+    width: 40%;
+    cursor: pointer;
+}
+#input-text
+{
+    color: white;
+    margin-left: 0;
+}
+#file
+{
+    display: none;
+    caret-color: transparent;
+}
+.submitBtn
+{
+    background-color: lavender;
+}
+.inactive
+{
+    pointer-events: none;
+    opacity: 0.5;
+}

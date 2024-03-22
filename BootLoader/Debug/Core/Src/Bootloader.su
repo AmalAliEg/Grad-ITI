@@ -1,0 +1,13 @@
+../Core/Src/Bootloader.c:54:11:BL_UART_Fetch_Host_Command	16	static
+../Core/Src/Bootloader.c:145:6:Bootloader_Jump_To_User_App	16	static
+../Core/Src/Bootloader.c:162:11:Bootloader_CRC_Verify	40	static
+../Core/Src/Bootloader.c:187:13:Bootloader_send_Ack	24	static
+../Core/Src/Bootloader.c:194:13:Bootloader_send_NAck	16	static
+../Core/Src/Bootloader.c:199:13:Bootloader_Send_Data_To_Host	16	static
+../Core/Src/Bootloader.c:266:13:Bootloader_Get_Chip_Identification_Number	32	static
+../Core/Src/Bootloader.c:341:16:Host_Address_Verification	24	static
+../Core/Src/Bootloader.c:406:11:Perform_Flash_Erase	48	static
+../Core/Src/Bootloader.c:483:13:Bootloader_Erase_Flash	32	static
+../Core/Src/Bootloader.c:526:16:Flash_Memory_Write_Payload	40	static
+../Core/Src/Bootloader.c:568:13:Bootloader_Memory_Write	32	static
+../Core/Src/Bootloader.c:756:6:BL_Print_Message	112	static
