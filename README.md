@@ -104,9 +104,9 @@ ________________________________________
  o Lane Departure Warning (LDW) 
    ▪ Keep the vehicle on same lane  
 
- _______
+ 
 Project Components
-
+=
 STM32F401CCU6 ARM based-microproccessor                              |  256 EGY 
 ___
 Raspberry Pi Pi 3 Model B+                                           |6,300 EGY
@@ -156,7 +156,8 @@ ___
 
 Complexity level 
 -----------------------------------------------------------------------
-No. components: 19 
+No. components: 19
+
 Measures of the complexity Level:1 
 
 
