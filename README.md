@@ -167,6 +167,7 @@ Wheel diameter: 65mm.
 Wheel thickness: 28mm.                                        
 
 Chassis _________________________________________________________________________|  250 EGY
+
 Double-layer structure.  
 
 2 x Acrylic Transparent car floor. 
