@@ -10,6 +10,7 @@ Stakeholder
 ---------------------------------------------------------------------------------------------
 Project manager  
 • Amal Aly 
+_________________________________________
 Team member  
 • Abdallah Essam 
 • Youssef Ghoneim 
