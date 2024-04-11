@@ -88,15 +88,16 @@ The final product of this project will be an Advanced Driver Assistance System (
 • The system will include Firmware Over-The-Air (FOTA) Update Mechanism.
 
 • Bootloader Updating 
-________________________________________
 
 • Enhanced ADAS Features:
 
  o Adaptive Cruise Control.
  
+ 
   ▪ Control speed according to front car's speed. 
   
   o Collision Warning and Avoidance.
+  
   
    ▪ Gives the drivers alert through buzzer and vibration sensor.  
    
@@ -104,17 +105,21 @@ ________________________________________
 
  o Traffic Sign Recognition.
  
+ 
   ▪ Check 43 different sign.
   
  o Automatic Emergency Braking (AEB).
+ 
  
   ▪ Stop the car if it detects obstacle.
   
  o Adaptive Light Control.
  
+ 
   ▪ Turn on at night, turn off at day.
   
  o Lane Departure Warning (LDW).
+ 
  
   ▪ Keep the vehicle on same lane.  
   
