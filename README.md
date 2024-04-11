@@ -14,9 +14,13 @@ Team member
 • Abdallah Essam 
 • Youssef Ghoneim 
 • Doaa Rageh 
+
+________________________________________
 Project supervisors  
 • Eng. Nour Hassan 
-• Eng. Joe Nofel 
+• Eng. Joe Nofel
+________________________________________
+
 The target  
 OEM’s companies  
 Automotive Industry 
