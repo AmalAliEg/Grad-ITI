@@ -106,7 +106,8 @@ ________________________________________
 
  
 Project Components
-=
+-----------------------------------------
+
 STM32F401CCU6 ARM based-microproccessor                              |  256 EGY 
 ___
 Raspberry Pi Pi 3 Model B+                                           |6,300 EGY
