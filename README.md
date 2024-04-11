@@ -90,38 +90,19 @@ The final product of this project will be an Advanced Driver Assistance System (
 • Bootloader Updating 
 
 • Enhanced ADAS Features:
-
   o Adaptive Cruise Control.
- 
- 
-   ▪ Control speed according to front car's speed. 
-  
-   o Collision Warning and Avoidance.
-  
-  
+    ▪ Control speed according to front car's speed. 
+  o Collision Warning and Avoidance.
     ▪ Gives the drivers alert through buzzer and vibration sensor.  
-   
 • Additionally, the product will incorporate Extra Project Features such as:
-
   o Traffic Sign Recognition.
- 
- 
-   ▪ Check 43 different sign.
-  
+    ▪ Check 43 different sign.
   o Automatic Emergency Braking (AEB).
- 
- 
-   ▪ Stop the car if it detects obstacle.
-  
+    ▪ Stop the car if it detects obstacle.
   o Adaptive Light Control.
- 
- 
-   ▪ Turn on at night, turn off at day.
-  
+    ▪ Turn on at night, turn off at day.
   o Lane Departure Warning (LDW).
- 
- 
-   ▪ Keep the vehicle on same lane.  
+    ▪ Keep the vehicle on same lane.  
   
 Project Components
 -----------------------------------------
