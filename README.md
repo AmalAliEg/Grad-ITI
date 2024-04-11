@@ -91,25 +91,31 @@ The final product of this project will be an Advanced Driver Assistance System (
 ________________________________________
 
 • Enhanced ADAS Features:
+
  o Adaptive Cruise Control.
+ 
   ▪ Control speed according to front car's speed. 
- ___
+  
   o Collision Warning and Avoidance.
+  
    ▪ Gives the drivers alert through buzzer and vibration sensor.  
-   ___
    
 • Additionally, the product will incorporate Extra Project Features such as:
 
  o Traffic Sign Recognition.
+ 
   ▪ Check 43 different sign.
   
  o Automatic Emergency Braking (AEB).
+ 
   ▪ Stop the car if it detects obstacle.
   
  o Adaptive Light Control.
+ 
   ▪ Turn on at night, turn off at day.
   
  o Lane Departure Warning (LDW).
+ 
   ▪ Keep the vehicle on same lane.  
   
 Project Components
@@ -150,15 +156,22 @@ Power Supply (Battery): 3 Rechargeable18650 Li-ion Battery 3.7v___      |   25 E
 Battery Holder Takes 3 standard size 18650 batteries___                 |   25 EGY
 
 Wheels Center hole: 5.3MM x 3.66MM___                                   |   20 EGY
+
 Wheel diameter: 65mm. 
+
 Wheel thickness: 28mm.                                        
 
 Chassis___                                                              |  250 EGY
 Double-layer structure.  
+
 2 x Acrylic Transparent car floor. 
+
 8 x Acrylic Fasteners. 
+
 4 x M3 Flat-Head Bolt (Length: 5cm ). 
+
 8 x M3 Flat-Head Bolt (Length: 3cm ). 
+
 20 x M3 Nut. 
 
 Complexity level 
