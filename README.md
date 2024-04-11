@@ -1,10 +1,8 @@
 Executive summary 
 -----------------------------------------------------------------------
 
-The Advanced Driver Assistance System (ADAS) project aims to revolutionize the driving experience 
-by providing real-time assistance and warnings in various scenarios. The primary goal is to develop 
-and implement a cutting-edge ADAS solution to enhance overall driver safety and reduce the risk of 
-accidents. 
+The Advanced Driver Assistance System (ADAS) project aims to revolutionize the driving experience by providing real-time assistance and warnings in various scenarios. The primary goal is to develop
+and implement a cutting-edge ADAS solution to enhance overall driver safety and reduce the risk of accidents. 
 
 Stakeholder  
 ---------------------------------------------------------------------------------------------
@@ -24,6 +22,7 @@ ________________________________________
 
 The target  
 OEM’s companies  
+
 Automotive Industry 
 
 Introduction  
@@ -80,79 +79,89 @@ Final Project
 -----------------------------------------------------------------------
 
 The final product of this project will be an Advanced Driver Assistance System (ADAS) integrated into vehicles, offering a comprehensive set of features designed to assist drivers in various situations:
-• The system will include Firmware Over-The-Air (FOTA) Update Mechanism 
+• The system will include Firmware Over-The-Air (FOTA) Update Mechanism.
+
 • Bootloader Updating 
 ________________________________________
 
-• Enhanced ADAS Features 
+• Enhanced ADAS Features
+
  o Adaptive Cruise Control 
+ 
    ▪ Control speed according to front car's speed 
  ___
  o Collision Warning and Avoidance. 
+ 
    ▪ Gives the drivers alert through buzzer and vibration sensor  
    ___
-• Additionally, the product will incorporate Extra Project Features such as 
- o Traffic Sign Recognition 
-   ▪ Check 43 different sign 
+• Additionally, the product will incorporate Extra Project Features such as:
+
+ o Traffic Sign Recognition. 
+ 
+   ▪ Check 43 different sign. 
    __
- o Automatic Emergency Braking (AEB) 
-   ▪ Stop the car if it detects obstacle 
+ o Automatic Emergency Braking (AEB).
+ 
+   ▪ Stop the car if it detects obstacle.
+   
    ___
- o Adaptive Light Control 
-   ▪ Turn on at night, turn off at day. 
+ o Adaptive Light Control.
+ 
+   ▪ Turn on at night, turn off at day.
    ____
- o Lane Departure Warning (LDW) 
-   ▪ Keep the vehicle on same lane  
+ o Lane Departure Warning (LDW).
+ 
+   ▪ Keep the vehicle on same lane.  
 
  
 Project Components
 -----------------------------------------
 
-STM32F401CCU6 ARM based-microproccessor                              |  256 EGY 
+STM32F401CCU6 ARM based-microproccessor___                              |  256 EGY 
 ___
-Raspberry Pi Pi 3 Model B+                                           |6,300 EGY
+Raspberry Pi Pi 3 Model B+___                                           |6,300 EGY
 ___
-MicroSD Card Micro SD 16GB Loaded With Raspbian OS for Raspberry PI  |  170 EGY
+MicroSD Card Micro SD 16GB Loaded With Raspbian OS for Raspberry PI___  |  170 EGY
 ___
-Ultrasonic Detector Sensor 3.3V~5V HC-SR04                           |   45 EGY
+Ultrasonic Detector Sensor 3.3V~5V HC-SR04___                           |   45 EGY
 ___
-Ultrasonic Sensor Holder Plastic - Long                              |   20 EGY
+Ultrasonic Sensor Holder Plastic - Long___                              |   20 EGY
 ___
-Buzzer : Auditory alerts Small buzzer 5V                             |   45 EGY
+Buzzer : Auditory alerts Small buzzer 5V___                             |   45 EGY
 ___
-LED: Visual alerts Red                                               |  0.5 EGY
+LED: Visual alerts Red___                                               |  0.5 EGY
 ___
-Headlamp: Lighting control LED Full Color                            |   10 EGY
+Headlamp: Lighting control LED Full Color___                            |   10 EGY
 ___
-Wi-Fi Module : ESP8266 Serial TTL Module                             |  220 EGY
+Wi-Fi Module : ESP8266 Serial TTL Module___                             |  220 EGY
 ___
-Vibration sensor Mini Vibration Motor                                |   30 EGY
+Vibration sensor Mini Vibration Motor___                                |   30 EGY
 ___
-Temperature Sensor DS18B20 - Digital Temperature Sensor              |   50 EGY
+Temperature Sensor DS18B20 - Digital Temperature Sensor___              |   50 EGY
 ___
-LDR                                                                  |   50 EGY
+LDR___                                                                  |   50 EGY
 ___
-IR sensor                                                            |   75 EGY
+IR sensor___                                                            |   75 EGY
 ___
-DC Motors: Control motion 3V~6V DC  Load current: 170mA              |   40 EGY
+DC Motors: Control motion 3V~6V DC  Load current: 170mA___              |   40 EGY
 ___
-Motor Control (H-Bridge): Drive motors L293 Motor Driver Shield      |  100 EGY
+Motor Control (H-Bridge): Drive motors L293 Motor Driver Shield___      |  100 EGY
 ___
-Power Supply (Battery): 3 Rechargeable18650 Li-ion Battery 3.7v      |   25 EGY
+Power Supply (Battery): 3 Rechargeable18650 Li-ion Battery 3.7v___      |   25 EGY
 ___
-Battery Holder Takes 3 standard size 18650 batteries                 |   25 EGY
+Battery Holder Takes 3 standard size 18650 batteries___                 |   25 EGY
 ___
-Wheels Center hole: 5.3MM x 3.66MM                                   |   20 EGY
-Wheel diameter: 65mm 
-Wheel thickness: 28mm                                        
+Wheels Center hole: 5.3MM x 3.66MM___                                   |   20 EGY
+Wheel diameter: 65mm. 
+Wheel thickness: 28mm.                                        
 ___
-Chassis                                                              |  250 EGY
-Double-layer structure,  
-2 x Acrylic Transparent car floor 
-8 x Acrylic Fasteners 
-4 x M3 Flat-Head Bolt (Length: 5cm ) 
-8 x M3 Flat-Head Bolt (Length: 3cm ) 
-20 x M3 Nut 
+Chassis___                                                              |  250 EGY
+Double-layer structure.  
+2 x Acrylic Transparent car floor. 
+8 x Acrylic Fasteners. 
+4 x M3 Flat-Head Bolt (Length: 5cm ). 
+8 x M3 Flat-Head Bolt (Length: 3cm ). 
+20 x M3 Nut. 
 ___
 
 Complexity level 
