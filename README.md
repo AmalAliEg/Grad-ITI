@@ -9,24 +9,27 @@ Stakeholder
 Project manager  
 • Amal Aly 
 _________________________________________
-Team member  
+Team member:  
 • Abdallah Essam 
 
 • Youssef Ghoneim 
 
 • Doaa Rageh 
-
 ________________________________________
-Project supervisors  
+Instructors:  
+• Eng. mahmoud el-sayed 
+
+• Eng. Yousef ahmad
+________________________________________
+Project supervisors:  
 • Eng. Nour Hassan 
 
 • Eng. Joe Nofel
 ________________________________________
 
-The target  
-OEM’s companies  
-
-Automotive Industry 
+The target:  
+OEM’s companies.  
+Automotive Industry.
 
 Introduction  
 -----------------------------------------------------------------------
@@ -59,13 +62,12 @@ Customer requirement
 
 • Fulfill consumer demands for advanced technology with the incorporation of Traffic Sign Recognition and Adaptive Cruise Control. 
 
-• Enhance the lighting system with features like Adaptive Light Control 
+• Enhance the lighting system with features like Adaptive Light Control. 
 
 Technical Overview 
 -----------------------------------------------------------------------
 
-• The ADAS system will include Firmware Over-The-Air (FOTA) Update Mechanism for 
-seamless updates. 
+• The ADAS system will include Firmware Over-The-Air (FOTA) Update Mechanism for seamless updates. 
 • Bootloader Updating will be implemented to enhance system reliability. 
 
 Project Limitations  
@@ -124,47 +126,47 @@ The final product of this project will be an Advanced Driver Assistance System (
 Project Components
 -----------------------------------------
 
-STM32F401CCU6 ARM based-microproccessor___                              |  256 EGY 
+STM32F401CCU6 ARM based-microproccessor _________________________________________|  256 EGY 
 
-Raspberry Pi Pi 3 Model B+___                                           |6,300 EGY
+Raspberry Pi Pi 3 Model B+ ______________________________________________________|6,300 EGY
 
-MicroSD Card Micro SD 16GB Loaded With Raspbian OS for Raspberry PI___  |  170 EGY
+MicroSD Card Micro SD 16GB Loaded With Raspbian OS for Raspberry PI _____________|  170 EGY
 
-Ultrasonic Detector Sensor 3.3V~5V HC-SR04___                           |   45 EGY
+Ultrasonic Detector Sensor 3.3V~5V HC-SR04 ______________________________________|   45 EGY
 
-Ultrasonic Sensor Holder Plastic - Long___                              |   20 EGY
+Ultrasonic Sensor Holder Plastic - Long _________________________________________|   20 EGY
 
-Buzzer : Auditory alerts Small buzzer 5V___                             |   45 EGY
+Buzzer : Auditory alerts Small buzzer 5V ________________________________________|   45 EGY
 
-LED: Visual alerts Red___                                               |  0.5 EGY
+LED: Visual alerts Red __________________________________________________________|  0.5 EGY
 
-Headlamp: Lighting control LED Full Color___                            |   10 EGY
+Headlamp: Lighting control LED Full Color _______________________________________|   10 EGY
 
-Wi-Fi Module : ESP8266 Serial TTL Module___                             |  220 EGY
+Wi-Fi Module : ESP8266 Serial TTL Module ________________________________________|  220 EGY
 
-Vibration sensor Mini Vibration Motor___                                |   30 EGY
+Vibration sensor Mini Vibration Motor ___________________________________________|   30 EGY
 
-Temperature Sensor DS18B20 - Digital Temperature Sensor___              |   50 EGY
+Temperature Sensor DS18B20 - Digital Temperature Sensor _________________________|   50 EGY
 
-LDR___                                                                  |   50 EGY
+LDR _____________________________________________________________________________|   50 EGY
 
-IR sensor___                                                            |   75 EGY
+IR sensor _______________________________________________________________________|   75 EGY
 
-DC Motors: Control motion 3V~6V DC  Load current: 170mA___              |   40 EGY
+DC Motors: Control motion 3V~6V DC  Load current: 170mA _________________________|   40 EGY
 
-Motor Control (H-Bridge): Drive motors L293 Motor Driver Shield___      |  100 EGY
+Motor Control (H-Bridge): Drive motors L293 Motor Driver Shield__________________|  100 EGY
 
-Power Supply (Battery): 3 Rechargeable18650 Li-ion Battery 3.7v___      |   25 EGY
+Power Supply (Battery): 3 Rechargeable18650 Li-ion Battery 3.7v__________________|   25 EGY
 
-Battery Holder Takes 3 standard size 18650 batteries___                 |   25 EGY
+Battery Holder Takes 3 standard size 18650 batteries ____________________________|   25 EGY
 
-Wheels Center hole: 5.3MM x 3.66MM___                                   |   20 EGY
+Wheels Center hole: 5.3MM x 3.66MM ______________________________________________|   20 EGY
 
 Wheel diameter: 65mm. 
 
 Wheel thickness: 28mm.                                        
 
-Chassis___                                                              |  250 EGY
+Chassis _________________________________________________________________________|  250 EGY
 Double-layer structure.  
 
 2 x Acrylic Transparent car floor. 
