@@ -11,12 +11,15 @@ Project manager
 _________________________________________
 Team member  
 • Abdallah Essam 
+
 • Youssef Ghoneim 
+
 • Doaa Rageh 
 
 ________________________________________
 Project supervisors  
 • Eng. Nour Hassan 
+
 • Eng. Joe Nofel
 ________________________________________
 
@@ -37,8 +40,10 @@ Lane Departure Warning (LDW).
 Adaptive Light Control.
 the product is positioned to meet the rising expectations for safety and convenience in the automotive market. 
 ___________________________________________
-Project Overview  
-the ADAS system enhances the driving experience by providing real-time assistance and warnings to drivers in various scenarios.
+
+Project Overview 
+--------------------------------------------------------------------
+The ADAS system enhances the driving experience by providing real-time assistance and warnings to drivers in various scenarios.
 
 Project main goal and outcome  
 -----------------------------------------------------------------------
@@ -86,38 +91,23 @@ The final product of this project will be an Advanced Driver Assistance System (
 ________________________________________
 
 • Enhanced ADAS Features
-
- o Adaptive Cruise Control. 
- 
-   ▪ Control speed according to front car's speed. 
+ o Adaptive Cruise Control.
+  ▪ Control speed according to front car's speed. 
  ___
- o Collision Warning and Avoidance. 
- 
+  o Collision Warning and Avoidance.
    ▪ Gives the drivers alert through buzzer and vibration sensor.  
    ___
    
 • Additionally, the product will incorporate Extra Project Features such as:
-
- o Traffic Sign Recognition. 
- 
-   ▪ Check 43 different sign. 
-   __
-   
+ o Traffic Sign Recognition.
+  ▪ Check 43 different sign.
  o Automatic Emergency Braking (AEB).
- 
-   ▪ Stop the car if it detects obstacle.
-   ___
-   
+  ▪ Stop the car if it detects obstacle.
  o Adaptive Light Control.
- 
-   ▪ Turn on at night, turn off at day.
-   ____
-   
+  ▪ Turn on at night, turn off at day.
  o Lane Departure Warning (LDW).
- 
-   ▪ Keep the vehicle on same lane.  
-
- 
+  ▪ Keep the vehicle on same lane.  
+  
 Project Components
 -----------------------------------------
 
